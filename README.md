@@ -9,5 +9,5 @@ I am I.
   
 I also code.  
   
-![Discord](https://img.shields.io/discord/308770673399169025?style=social)
+[![Discord](https://img.shields.io/discord/308770673399169025?style=social)](https://discord.gg/W7w9K72N)
   
