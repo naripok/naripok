@@ -14,7 +14,6 @@ I'm code, sometimes...
 
 - fernando@megali.co.uk
 - [Megali](https://megali.co.uk)
-- [2CSolar](https://2csolar.com)
 - [Resume](https://fernando.megali.co.uk/)
 - [Linkedin](https://www.linkedin.com/in/fernando-canteruccio-a31088133/)
 - [![Discord](https://img.shields.io/discord/308770673399169025?style=social)](https://discord.gg/W7w9K72N)
