@@ -1,12 +1,16 @@
 ## Who am I?
 
-Who are you?  
-Who am I?
+Hi 👋, my name is **Fernando**.
 
-I am you.  
-I am I.
+- 👨‍💻 I'm a senior software engineer with 8 years of experience and passion for machine learning and game theory.
+- 😎 By day, I'm the principal engineer at [Megali](https://megali.co.uk), my own software development agency.
+- 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
+- ⏳ In my free time, I love to take long walks, spend time with friends and study about game theory and category theory.
+- 🇧🇷 I'm based in sunny Brazil, and I'm available for remote work anywhere.
 
-I'm code, sometimes...
+## Professional information
+
+I'm always looking for positive-sum games and cooperations. Please, check my [resume](https://fernando.megali.co.uk) and the product section on my [company's website](https://megali.co.uk).
 
 ## Contact me
 
@@ -14,15 +18,7 @@ I'm code, sometimes...
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://megali.co.uk">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-<a href="https://fernando.megali.co.uk/">
-  <img src="https://img.shields.io/badge/resume-AA0000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/fernando-canteruccio-a31088133/">
+<a href="https://www.linkedin.com/in/fernando-canteruccio">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
