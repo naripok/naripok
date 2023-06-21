@@ -1,19 +1,31 @@
 ## Who am I?
 
-![yod](https://megali-public.s3.amazonaws.com/yod-in-a-triangle-black-small.jpg)
-  
 Who are you?  
-Who am I?  
-  
+Who am I?
+
 I am you.  
-I am I.  
-  
-I'm code, sometimes...  
+I am I.
+
+I'm code, sometimes...
 
 ## Contact me
 
-- fernando@megali.co.uk
-- [Megali](https://megali.co.uk)
-- [Resume](https://fernando.megali.co.uk/)
-- [Linkedin](https://www.linkedin.com/in/fernando-canteruccio-a31088133/)
-- [![Discord](https://img.shields.io/discord/308770673399169025?style=social)](https://discord.gg/W7w9K72N)
+<a href="mailto:fernando.canteruccio@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://megali.co.uk">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://fernando.megali.co.uk/">
+  <img src="https://img.shields.io/badge/resume-AA0000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/fernando-canteruccio-a31088133/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/W7w9K72N">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
