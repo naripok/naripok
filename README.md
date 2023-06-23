@@ -3,14 +3,14 @@
 Hi 👋, my name is **Fernando**.
 
 - 👨‍💻 I'm a senior software engineer with 8 years of experience and passion for machine learning and game theory.
-- 😎 By day, I'm the principal engineer at [Megali](https://megali.co.uk), my own software development agency.
+- 😎 By day, I'm the principal engineer at [Megali](https://megali.dev), my own software development agency.
 - 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
 - ⏳ In my free time, I love to take long walks, spend time with friends and study about game theory and category theory.
 - 🇧🇷 I'm based in sunny Brazil, and I'm available for remote work anywhere.
 
 ## Professional information
 
-I'm always looking for positive-sum games and cooperations. Please, check my [resume](https://fernando.megali.co.uk) and the product section on my [company's website](https://megali.co.uk).
+I'm always looking for positive-sum games and cooperations. Please, check my [resume](https://fernando.megali.dev) and the product section on my [company's website](https://megali.dev).
 
 ## Contact me
 
