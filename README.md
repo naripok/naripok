@@ -1,20 +1,22 @@
 ## Who am I?
 
-Hi 👋, my name is **Fernando**.
+Hello 👋, I'm **Fernando**.
 
-- 👨‍💻 I'm a senior software engineer with 8 years of experience and passion for machine learning and game theory.
-- 😎 By day, I'm the principal engineer at [Megali](https://megali.dev), my own software development agency.
+- 👨‍💻 With 8 years of experience as a senior software engineer, I've developed a deep passion for machine learning and game theory.
+- 😎 During the day, I lead as the principal engineer at [Megali](https://megali.dev), my own software development agency.
 - 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
-- ⏳ In my free time, I love to take long walks, spend time with friends and study about game theory and category theory.
-- 🇧🇷 I'm based in sunny Brazil, and I'm available for remote work anywhere.
+- ⏳ In my leisure time, I enjoy long walks, socializing with friends, and delving into game theory and machine learning.
+- 🇧🇷 Based in sunny Brazil, I'm open to remote work opportunities worldwide.
 
 ## Professional information
 
-I'm always looking for positive-sum games and cooperations. Please, check my [resume](https://fernando.megali.dev) and the product section on my [company's website](https://megali.dev).
+I continuously seek positive-sum games and collaborative opportunities. For more about my professional background, please take a look at my [resume](https://fernando.megali.dev) and the product section on my [company's website](https://megali.dev).
 
 ## Contact me
 
-<a href="mailto:fernando.canteruccio@gmail.com">
+Feel free to contact me via email, on LinkedIn, or on Discord.
+
+<a href="mailto:fernando@megali.dev">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
