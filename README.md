@@ -2,7 +2,7 @@
 
 Hello 👋, I'm **Fernando**.
 
-- 👨‍💻 With 8 years of experience as a senior software engineer, I've developed a deep passion for machine learning and game theory.
+- 👨‍💻 With 8 years of experience as a software engineer, I've developed a deep passion for machine learning and game theory.
 - 😎 During the day, I lead as the principal engineer at [Megali](https://megali.dev), my own software development agency.
 - 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
 - ⏳ In my leisure time, I enjoy long walks, socializing with friends, and researching new technologies.
