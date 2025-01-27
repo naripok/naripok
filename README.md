@@ -2,10 +2,10 @@
 
 Hello 👋, I'm **Fernando**.
 
-- 👨‍💻 With 9 years of experience as a software engineer, I've developed a deep passion for intelligent systems.
+- 👨‍💻 With 10 years of experience as a software engineer, I've developed a deep passion for intelligent systems.
 - 🦾 During the day, I lead as the principal engineer at [Megali](https://megali.dev).
 - 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
-- 👁️ In my leisure time, I enjoy long walks, silence and thinking deeply about arcane subjects.
+- 👁️ In my leisure time, I enjoy long walks, silence and observing the mind while it wanders.
 - 🇧🇷 Based in sunny Brazil, I'm looking to help you and your business, so together we can help the world.
 
 ## Professional information
