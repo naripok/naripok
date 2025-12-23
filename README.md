@@ -10,7 +10,7 @@ Hello 👋, I'm **Fernando**.
 
 ## Professional information
 
-I continuously seek positive-sum games and collaborative opportunities worldwide. For more about my professional background, please take a look at my [resume](https://fernando.megali.dev) and the product section on my [company's website](https://megali.dev).
+I continuously seek positive-sum games and collaborative opportunities worldwide. For more about my professional background, please take a look at my [resume](https://fernando.megali.dev).
 
 ## Contact me
 
