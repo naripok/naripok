@@ -5,7 +5,7 @@ Hello 👋, I'm **Fernando**.
 - 👨‍💻 With 10 years of experience as a software engineer, I've developed a deep passion for intelligent systems.
 - 🦾 During the day, I work as a software/ML engineer building bespoke solutions for companies and partners.
 - 🌃 By night, I'm a loving husband and father of two 🐶 and four 😸.
-- 👁️ In my leisure time, I enjoy long walks, silence and observing the mind while it wanders. I've also been trying my hand on game development.
+- 👁️ In my leisure time, I enjoy long walks, silence and observing the mind while it wanders.
 - 🇧🇷 Based in sunny Brazil, I'm looking to help you and your business, so together we can help the world.
 
 ## Professional information
